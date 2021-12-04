@@ -1,5 +1,3 @@
-import java.util.ArrayList;
-
 public class DinnerAdvisor {
 
     void getAdvice(double moneyBeforeSalary, int daysBeforeSalary) {
